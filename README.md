@@ -42,7 +42,7 @@ To run the web application, follow these steps:
 
 1. Install the required libraries by running:
    ```
-   pip install scikit-learn catboost xgboost streamlit
+  pip install -r requirements.txt
    ```
 
 2. Clone the project repository:
@@ -52,7 +52,7 @@ To run the web application, follow these steps:
 
 3. Navigate to the project directory:
    ```
-   cd Restaurant_Food_Reviews_Classification
+   cd text_classification_nlp
    ```
 
 4. Run the Streamlit web application:
