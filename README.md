@@ -42,7 +42,7 @@ To run the web application, follow these steps:
 
 1. Install the required libraries by running:
    ```
-  pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 2. Clone the project repository:
